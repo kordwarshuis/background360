@@ -1,3 +1,9 @@
+/*
+ * background360
+ * Copyright (c) 2013 Kor Dwarshuis (dwarshuis.com)
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/mit-license.php
+ */
 html, body {
     background: #0a021c;
     color: #fff;
@@ -8,8 +14,6 @@ html, body {
 #rotatemessage h1 {
     font-size: 5em;
 }
-
-
 
 #rotatemessage {
     position: fixed;

@@ -1,3 +1,9 @@
+/*
+ * background360
+ * Copyright (c) 2013 Kor Dwarshuis (dwarshuis.com)
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/mit-license.php
+ */
 var background360 = (function () {
     var backgroundImageDimensions = {
         width: 0,
